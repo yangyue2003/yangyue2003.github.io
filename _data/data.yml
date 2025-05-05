@@ -18,8 +18,7 @@ sidebar:
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: 
-  linkedin: Yang Yue
-    link: linkedin.com/in/yang-yue-697325225/
+  linkedin: linkedin.com/in/yang-yue-697325225/
   xing: 
   github: github.com/yangyue2003
   telegram: # add your nickname without '@' sign
@@ -41,36 +40,30 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: Mandarin
+      level: Native
 
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Gaming
       link:
 
 
-    - item: Snowboarding
+    - item: Motorcycling
       link:
 
 
-    - item: Cooking
+    - item: Reading
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    As a detail-oriented and results-driven individual with a solid background in mathematics, finance, and data science, I make an excellent hire and is actively looking for entry-level quantitative positions in trading, research, and risk management. My proficiency in programming languages like Python, R, and C++, combined with practical experience in multiple clubs, internships, competitions, and projects, equips me to tackle complex problems. In addition, I am also an enthusiast in music, sports, gaming, exotic pet keeping, and comedy. Feel free to reach out!
+    
 education:
   title: Education
   info:
@@ -100,43 +93,28 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Investment Solutions Analyst
+    time: May 2025 - Aug 2025
+    company: Principal Asset Management
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+    
+  - role: Risk Advisory Analyst
+    time: June 2023 - Aug 2023
+    company: Deloitte
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
+        - Developed and backtested quantitative models, such as the random forest model, for bond default prediction, utilizing Python for data processing and analysis
+        - Imported and cleaned data by utilizing self-developed web scraping scripts to the database
+        - Collaborated closely with cross-functional teams to refine models based on client needs and real-time market data, demonstrating strong analytical and communication skills in a fast-paced environment 
+
+      
+  - role: Investment Banking Summer Analyst
+    time: June 2022 - Sept 2022
     company: Amazon, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Conducted comprehensive financial analyses of companies within the Chinese semiconductor supporting industries, leading to a refined understanding of market trends and investment opportunities
+        - Thoroughly analyzed multiple companies’ 10Ks to gain substantial understanding on the landscape of the electronic testing equipment industry
+        - Increased investors’ engagement by 10% through detailed analysis, compelling presentations, and excellent public speaking on private placement projects and corresponding road shows
+
 
 certifications:
   title: Certifications
